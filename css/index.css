@@ -2,6 +2,10 @@
 
 
 
+*{
+    font-family: "Calistoga", serif;
+}
+
 body{
     border: 2px solid blue;
 }
